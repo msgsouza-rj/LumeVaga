@@ -25,6 +25,10 @@
 * Yarm
 * React Native
 * Bibliotecas Shake e Torch
+ 
+#  
+  
+  💾 Faça o Download <a href="https://github.com/msgsouza-rj/LumeVaga/releases/tag/Lanterna" target="_blank"> Baixar! </a>
 #
 ###
 ### :black_nib:  Autor: Mauro Souza        <a href="https://www.linkedin.com/in/maurosouza-dev/" target="_blank"> :calling: Veja meu linkedin</a>
