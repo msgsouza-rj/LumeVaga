@@ -1,7 +1,7 @@
 # :bulb:      LumeVaga App 
 
 ## :arrow_forward: O LumeVaga app é um apicativo de lanterna estilizado.
-### :black_small_square: Açoes vc pode acender ou apagar a lantarna (Flash) por toque ou "Chacoalhando" o Celular.
+### :black_small_square: Açoes: Você pode acender ou apagar a lantarna (Flash) por toque ou "Chacoalhando" o Celular.
   
 
 ### :heavy_check_mark: Esse projeto é deriavado do projeto Flashlight realizado como final do curso de React Native.
